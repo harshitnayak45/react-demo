@@ -1,0 +1,27 @@
+.head_div{
+  margin-bottom: 0px; 
+  float: left;
+  width: 100%;
+  border-bottom: 1px dashed #ccc;
+}
+.head_title{
+  font-size: 25px;
+  color: #6f42c1;
+  font-weight: 600;
+}
+.event_btn{
+  padding: 8px 10px;
+  background: #fff;
+}
+.text_cont{
+  font-weight: 100 !important;
+}
+.portlet-content button{margin:0px 15px;}
+.btn-yellow{background: #f3f30e;padding: 7px 15px;}
+.btn-red{background: #e74c3c;padding: 7px 15px;}
+.btn-blue{background: #1f09969c;color:#fff;padding: 7px 15px;}
+.timeline-list{font-size:14px !important;}
+.icon_font{font-size: 20px;
+    position: relative;
+    top: -21px;
+    color: #fff;}
